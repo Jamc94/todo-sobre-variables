@@ -15,3 +15,11 @@ const constante = "no se puede cambiar mediante reasignación ni volver a declar
 let camelCase = ["comienza con letra minúscula","la primera letra de cada palabra subsiguiente en mayúscula"];
 
 const SCREAMING_SNAKE_CASE = ["todas las letras en mayúsculas","separadas por guiones bajos"];
+
+
+
+console.log(variable);
+console.log(variableLet);
+console.log(constante);
+console.log(camelCase);
+console.log(SCREAMING_SNAKE_CASE);
